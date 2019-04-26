@@ -1,5 +1,5 @@
 import scrapy
-
+# Retrieve links
 class HorseSpider(scrapy.Spider):
     name = 'snow'
 
